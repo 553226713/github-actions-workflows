@@ -25,7 +25,10 @@ A collection of production-ready GitHub Actions workflows for modern web applica
 
 ## 🚀 Quick Start
 
-```yaml
+```bash
+# Clone the repository
+gh repo clone 553226713/github-actions-workflows
+
 # Copy the workflow you need to your repository
 cp .github/workflows/ci.yml your-repo/.github/workflows/
 ```
@@ -79,7 +82,23 @@ Get the **Pro Version** with additional workflows:
 - 📊 Performance testing
 - 📱 Mobile app builds
 
-[Buy Pro Version →](your-payment-link)
+[Buy Pro Version →](https://gum.co/gh-actions-pro)
+
+## ❤️ Support
+
+If this template helps you, please consider:
+
+- ⭐ **Star** this repository
+- 🐛 **Report** issues
+- 🔧 **Submit** pull requests
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤-ea4aaa?style=flat&logo=github-sponsors)](https://github.com/sponsors/553226713)
+
+## 💰 支持一下
+
+如果这个项目对你有帮助，可以扫码打赏支持！
+
+<img src="https://raw.githubusercontent.com/553226713/github-actions-workflows/main/alipay.png" width="200" alt="支付宝收款码"/>
 
 ## 🤝 Contributing
 
@@ -92,5 +111,5 @@ MIT License
 ---
 
 <div align="center">
-  <p>Made with ❤️</p>
+  <p>Made with ❤️ by <a href="https://github.com/553226713">553226713</a></p>
 </div>
